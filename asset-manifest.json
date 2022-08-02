@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mancala-final/static/css/main.073c9b0a.css",
+    "main.js": "/mancala-final/static/js/main.bf6404c1.js",
+    "index.html": "/mancala-final/index.html",
+    "main.073c9b0a.css.map": "/mancala-final/static/css/main.073c9b0a.css.map",
+    "main.bf6404c1.js.map": "/mancala-final/static/js/main.bf6404c1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.bf6404c1.js"
+  ]
+}
